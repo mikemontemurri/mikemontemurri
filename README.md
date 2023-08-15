@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mikemontemurri
 - 👀 I’m interested in physical modeling and statistical data analysis
-- 🌱 I’m currently learning python and R.
 - 📫 How to reach me email is mikemontemurri@gmail.com
 
 <!---
